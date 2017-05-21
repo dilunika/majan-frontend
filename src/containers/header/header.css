@@ -1,0 +1,17 @@
+.logo {
+    padding: 1em;
+    margin: 0.3em;
+    border: 1px black dashed;
+}
+
+.features {
+    padding: 1em;
+    margin: 0.3em;
+    border: 1px darkblue dashed;
+}
+
+.user {
+    padding: 1em;
+    margin: 0.3em;
+    border: 1px darkgreen dashed;
+}
